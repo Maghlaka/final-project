@@ -76,3 +76,8 @@ header{
     margin: 203px auto;
 
 }
+.services div{
+    text-align: center;
+    background-color: services;
+    height: 360px;
+}
